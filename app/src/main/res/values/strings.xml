@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Game news</string>
+
+
+    <string name="back_press_again">Click again to exit</string>
+    <string name="cont_tool_bar_title">News</string>
+    <string name="cont_tab_bar_stories">Stories</string>
+    <string name="cont_tab_bar_video">Video</string>
+    <string name="cont_tab_bar_favourites">Favourites</string>
+    <string name="top">TOP</string>
+    <string name="invalid_link">unknown</string>
+</resources>

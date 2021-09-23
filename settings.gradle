@@ -1,0 +1,3 @@
+rootProject.name = "Game news"
+include ':app'
+rootProject.name = "Games_News"
